@@ -16,5 +16,3 @@ print("Last Name, other method:", friends[-1]);
 print("Reverse order", friends[::-1]);
 print("From 3rd to 5th:", friends[3:6]);
 print("From 8th to 3rd", friends[8:2:-1]);
-
-print("From 3rd to 5th:", friends(3:6));
